@@ -1,0 +1,76 @@
+.banner-container{
+  display: flex;
+}
+.banner-content{
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #b1102e;
+  padding-left: 24px;
+}
+.banner-label{
+  color:white;
+  margin: 0;
+  line-height: 2.75;
+  text-transform: uppercase;
+}
+.banner-title{
+  color:white;
+  margin: 0;
+  line-height: 1.2;
+}
+.contact-container{
+  width:50%;
+  background-color: white;
+}
+.contact-content{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 240px;
+  padding-left: 24px;
+}
+.contact-title{
+  margin: 0;
+  line-height: 1.5;
+  color:#b1102e;
+}
+.contact-link{
+  margin: 0;
+  line-height: 3.0;
+  text-transform: uppercase;
+  font-weight: 700;
+  color:rgba(0,0,0,0.65);
+  font-size:14px;
+}
+.quick-links-container{
+  display: flex;
+}
+.party-logo-container{
+  width: 50%;
+  height: 180px;
+  background-color: #ecc48a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.party-logo-container img{
+  height: 148px;
+}
+.media-links{
+  width: 50%;
+  background-color: #b1102e;
+}
+.media-links ul{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 100%;
+  margin: 0;
+}
+.media-links li{
+  list-style-type: none;
+  margin: 0 5px;
+  color:white;
+}
