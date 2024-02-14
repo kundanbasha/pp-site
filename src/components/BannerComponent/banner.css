@@ -6,11 +6,11 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #b1102e;
+  background-color: #030180;
   padding-left: 24px;
 }
 .banner-label{
-  color:white;
+  color:#fea500;
   margin: 0;
   line-height: 2.75;
   text-transform: uppercase;
@@ -34,7 +34,7 @@
 .contact-title{
   margin: 0;
   line-height: 1.5;
-  color:#b1102e;
+  color:#030180;
 }
 .contact-link{
   margin: 0;
@@ -50,7 +50,7 @@
 .party-logo-container{
   width: 50%;
   height: 180px;
-  background-color: #ecc48a;
+  background-color: #fea500;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -60,7 +60,7 @@
 }
 .media-links{
   width: 50%;
-  background-color: #b1102e;
+  background-color: #030180;
 }
 .media-links ul{
   display: flex;

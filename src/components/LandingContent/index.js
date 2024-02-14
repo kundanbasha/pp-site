@@ -1,11 +1,11 @@
 import "./landing-content.css";
-import BannerStrip from "../../assets/banner-strip.jpeg";
+import ManifestoList from "../ManifestoList";
 
 const LandingContent = () => {
   return (
     <div className="content-container">
       <div className="content-img">
-        <img alt="banner strip" src={BannerStrip} />
+        <ManifestoList />
       </div>
       <div className="content">
         <h2 className="content-title">

@@ -8,8 +8,9 @@
   height: 64px;
 }
 .logo{
-  width: 64px;
+  width: 76px;
   padding: 0px 20px;
+  margin-top:8px ;
 }
 .nav-items{
   display: flex;
@@ -26,7 +27,7 @@
   font-size: 14px;
 }
 .nav-items li:hover{
-  color:#b1102e;
+  color:#fea500;
   cursor: pointer;
 }
 .contact-nav-item{
@@ -34,7 +35,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #b1102e;
+  background-color: #030180;
   color: white;
   font-size: 14px;
   padding: 0px 36px;

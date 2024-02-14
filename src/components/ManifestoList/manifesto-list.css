@@ -1,0 +1,28 @@
+.manifesto-wrap{
+  display: flex;
+  position: relative;
+  animation: 6s ease-in-out 0s infinite alternate none running anime1;
+}
+
+.manifesto-item{
+  height:168px;
+  background-color: #07b817;
+  width:25%;
+  margin: 4px 2px 0;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 20px;
+}
+
+@keyframes MyDiv {
+  0%   {left: -50px; top: 0px;}
+  100%  {left: 0px; top: 0px;}
+}
+
+@keyframes anime1 {
+  0%   {transform: translateX(-52%);}
+  100%  {transform: translateX(0px);}
+}

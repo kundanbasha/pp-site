@@ -1,5 +1,5 @@
 import "./banner.css";
-import RoundedLogo from "../../assets/rounded-logo.png";
+import PartyLogo from "../../assets/JANAM MANA PARTY.svg";
 
 const BannerComponent = () => {
   return (
@@ -17,7 +17,7 @@ const BannerComponent = () => {
         </div>
         <div className="quick-links-container">
           <div className="party-logo-container">
-            <img alt="rounded logo" src={RoundedLogo} />
+            <img alt="rounded logo" src={PartyLogo} />
           </div>
           <div className="media-links">
             <ul>
