@@ -3,6 +3,7 @@ import { createBrowserRouter, Outlet, RouterProvider } from "react-router-dom";
 import App from "./src/App";
 import About from "./src/components/About";
 import Campaigns from "./src/components/Campaigns";
+import Contact from "./src/components/Contact";
 import Gallery from "./src/components/Gallery";
 import Header from "./src/components/Header";
 
@@ -33,6 +34,10 @@ const appRouter = createBrowserRouter([
       {
         path: "/campaigns",
         element: <Campaigns />,
+      },
+      {
+        path: "/contact",
+        element: <Contact />,
       },
     ],
   },

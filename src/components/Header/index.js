@@ -24,7 +24,9 @@ const Header = () => {
             </li>
           </ul>
         </div>
-        <div className="contact-nav-item">Contact</div>
+        <div className="contact-nav-item">
+          <Link to="/contact">Contact</Link>
+        </div>
       </div>
     </div>
   );

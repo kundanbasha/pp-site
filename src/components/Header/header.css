@@ -36,7 +36,9 @@
   align-items: center;
   justify-content: center;
   background-color: #030180;
+  padding: 0px 36px;
+}
+.contact-nav-item a{
   color: white;
   font-size: 14px;
-  padding: 0px 36px;
 }
