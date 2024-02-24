@@ -9,12 +9,10 @@ const Footer = () => {
         <div className="footer-contact">
           <h3>Contact</h3>
           <p>
-            ప్లాట్ నెం.12, రోడ్ నెం.72, ప్రశాసన్ నగర్, జూబ్లిహిల్స్, హైదరాబాద్,
-            తెలంగాణా 500033 పోన్: 040-23545990 Mail: contact@janasenaparty.org,
-            media@janasenaparty.org For any suggestion or feedback mail to
-            feedback@janasenaparty.org <br />
+            ప్లాట్ నెం.xx, రోడ్ నెం.xxx, Balaji nagar, Nellore, Andhra pradesh
+            500033 పోన్: 9391312314 <br />
             or
-            <br /> Whatsapp Number:6304900667
+            <br /> Whatsapp Number:9391312314
           </p>
         </div>
         <div className="footer-quick-links">
