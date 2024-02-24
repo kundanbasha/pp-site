@@ -22,6 +22,9 @@ const Header = () => {
             <li>
               <Link to="/campaigns">Campaigns</Link>
             </li>
+            <li>
+              <Link to="/donation">Donation</Link>
+            </li>
           </ul>
         </div>
         <div className="contact-nav-item">

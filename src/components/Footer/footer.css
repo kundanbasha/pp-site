@@ -1,0 +1,20 @@
+.footer-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.footer-contact, .footer-quick-links, .footer-media{
+  width: 30%;
+  padding-right: 24px;
+}
+
+.footer-quick-links ul, .footer-media ul{
+list-style: none;
+padding-left: 0;
+}
+
+.footer-quick-links, .footer-media{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

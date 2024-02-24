@@ -6,6 +6,9 @@
   z-index: 1;
   position: sticky;
   height: 64px;
+  position: sticky;
+  top:0px;
+  background-color: white;
 }
 .logo{
   width: 76px;
